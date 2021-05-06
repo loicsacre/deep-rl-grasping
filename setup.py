@@ -5,7 +5,7 @@ setup(
     version = '0.0.1',
     install_requires=[
         'stable-baselines',
-        'tensorflow<1.15.0'
+        'tensorflow<1.15.0',
         'autopep8',
         'gym',
         'keras==2.2.4',
